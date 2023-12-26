@@ -1,0 +1,21 @@
+<svg width="415" height="461" viewBox="0 0 415 461" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 460H415" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M2 345.261H415" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M2 230.523H415" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M2 115.784H415" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M2 1.04541H415" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M2 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M70.6499 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M139.3 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M207.949 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M276.599 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M345.249 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M413.899 0V460" stroke="white" stroke-opacity="0.5" stroke-dasharray="4 2"/>
+<path d="M23 352H53V451H23V352Z" fill="#ED0474"/>
+<path d="M91 385H121V451H91V385Z" fill="#ED0474"/>
+<path d="M159 260H189V451H159V260Z" fill="#ED0474"/>
+<path d="M227 231H257V451H227V231Z" fill="#ED0474"/>
+<path d="M295 273H325V451H295V273Z" fill="#ED0474"/>
+<path d="M363 116H393V451H363V116Z" fill="#ED0474"/>
+<path d="M70.5 235.5L71.2587 233.118L69.8701 232.676L68.8009 233.666L70.5 235.5ZM138 257L137.241 259.382L138.888 259.907L139.96 258.551L138 257ZM276.5 82L277.275 79.6231L275.62 79.0837L274.54 80.4485L276.5 82ZM344 104L343.225 106.377L345.028 106.965L346.08 105.387L344 104ZM407 9.5L381.123 22.2948L405.142 38.3077L407 9.5ZM4.19906 300.334L72.1991 237.334L68.8009 233.666L0.800942 296.666L4.19906 300.334ZM69.7413 237.882L137.241 259.382L138.759 254.618L71.2587 233.118L69.7413 237.882ZM139.96 258.551L278.46 83.5515L274.54 80.4485L136.04 255.449L139.96 258.551ZM275.725 84.3769L343.225 106.377L344.775 101.623L277.275 79.6231L275.725 84.3769ZM346.08 105.387L396.599 29.6079L392.439 26.8344L341.92 102.613L346.08 105.387Z" fill="#19B75E"/>
+</svg>

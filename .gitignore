@@ -1,0 +1,6 @@
+.vscode
+.idea
+/vendor
+/node_modules
+/backup
+secret.php
